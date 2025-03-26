@@ -1,0 +1,21 @@
+{
+  "Sentiment Analysis": {
+    "Positive": "Text expressing positive emotions, satisfaction, or approval",
+    "Neutral": "Text with no clear emotional tone or sentiment",
+    "Negative": "Text expressing negative emotions, dissatisfaction, or criticism"
+  },
+  "Customer Feedback": {
+    "Product Issue": "Reports of product defects, malfunctions, or quality problems",
+    "Service Complaint": "Complaints about customer service experiences",
+    "Feature Request": "Suggestions for new features or improvements",
+    "Positive Feedback": "Compliments or positive experiences with products/services",
+    "Question": "Customer inquiries seeking information or clarification"
+  },
+  "Content Moderation": {
+    "Safe": "Content that is appropriate and doesn't violate policies",
+    "Hate Speech": "Content expressing hatred or prejudice against groups",
+    "Violence": "Content depicting or promoting violence",
+    "Adult": "Adult or sexually explicit content",
+    "Harassment": "Content that harasses, bullies, or targets individuals"
+  }
+}
