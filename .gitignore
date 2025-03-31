@@ -15,12 +15,4 @@ wheels/
 # Cursor rules
 .cursor
 
-# Streamlit cache
-.streamlit/cache
-
-# Streamlit secrets
-.streamlit/secrets.toml
-
-
-
 
